@@ -1,5 +1,3 @@
-# StudentTracker.ml
-
 ## China is tracking students
 Chinese schools are using Facial Recognition Technology and other technology to track their students.
 These systems lack basic security features and are publicly accessible via the internet.
