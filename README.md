@@ -1,5 +1,5 @@
 # China is tracking students
- Chinese schools using Facial Recognition Technology and other technogy to track their students.
+ Chinese schools using Facial Recognition Technology and other technology to track their students.
  
  
 ## Facial recognition
@@ -12,7 +12,7 @@
   * Social
     * [Twitter](https://twitter.com/0xDUDE/status/1216035348108713984)
 * Data
-  * This is the [list of schools](https://github.com/cookiemonster/China_Student_tracking/blob/master/FaceBucket-schools) which are leaking student data like personal information and FRT images. All the data is publicly accessible.
+  * This is the [list of schools](https://github.com/cookiemonster/China_Student_tracking/blob/master/FaceBucket-schools) that are leaking student data like personal information and FRT images. All the data is publicly accessible.
   
   
   
