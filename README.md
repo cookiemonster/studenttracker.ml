@@ -6,7 +6,7 @@ These systems lack basic security features and are publicly accessible via the i
 
 ### FaceBucket
 
-* News: [People's Daily, China](https://twitter.com/PDChina/status/1080728488825434112)
+* News: [The Wall Street Journal](https://www.wsj.com/articles/thousands-of-chinese-students-data-exposed-on-internet-11579283410)
 * Social: [Twitter](https://twitter.com/0xDUDE/status/1216035348108713984)
 * Data: This is the [list of schools](FaceBucket-schools.md) that are leaking student data like personal information and FRT images. All the data is publicly accessible. ~~This is a [sample](https://github.com/cookiemonster/2020-Chinese-Dataleaks/blob/master/README.md) of the public data.~~
 
